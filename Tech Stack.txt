@@ -1,0 +1,5 @@
+1. Firebase Authentication
+2. Firebase Firestore real time database
+3. React+Redux
+4. Material UI
+5. Firebase hosting
